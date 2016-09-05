@@ -1,0 +1,22 @@
+{
+  "name": "hebden-places",
+  "version": "0.1.0",
+  "description": "Database of community and commercial locations in Hebden Bridge",
+  "main": "wangle.js",
+  "dependencies": {
+    "csv": "^1.1.0",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "open-data",
+    "open",
+    "data",
+    "hebden-bridge"
+  ],
+  "author": "Giles Dring <giles@dringtech.com>",
+  "license": "ISC"
+}
